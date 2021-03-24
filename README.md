@@ -15,12 +15,13 @@ change env.class to .env
 
 ```bash
 npm install
+```
 
 ## To Run
 
 ```bash
 npm start
-
+```
 
 Code is Running on
 
